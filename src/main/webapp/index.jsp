@@ -15,7 +15,7 @@
       outline: none;
       font-family: Roboto, Arial, sans-serif;
       font-size: 30px;
-      color: #00F;
+      color: #000;
       line-height: 22px;
       }
       h1 {
@@ -198,7 +198,7 @@
         </div>
         <div align="left">
  
-        <p class="top-info"><b>Thank you for your interest Mounika. Welcome to the Page. <br/> Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</b></p>
+        <p class="top-info"><b>Thank you for your interest Mounika. Welcome to the Page. <br/> Please check below .</b></p>
         </div>
         
 <div align="center">
