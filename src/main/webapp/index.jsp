@@ -198,7 +198,7 @@
         </div>
         <div align="left">
  
-        <p class="top-info"><b>Thank you for your interest Mounika. Welcome to the Page. <br/> Please check below .</b></p>
+        <p class="top-info"><b>Thank you for your interest Mounika. Welcome to the Page.But the heading is red in color. <br/> Please check below .</b></p>
         </div>
         
 <div align="center">
